@@ -1,0 +1,37 @@
+_repo: Dialogue-of-Comfort-Against-TribulationWith-Modifications-To-Obsolete-Language-By-Monica-Stev__17075
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: More, Thomas, Saint
+    aliases:
+    - More, Thomas, Sir, Saint
+    - Moore, Thomas, Saint
+    - Morus, Thomas
+    birthdate: 1478
+    deathdate: 1535
+    gutenberg_agent_id: '827'
+    url: http://www.gutenberg.org/2009/agents/827
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_More
+  editor:
+    agent_name: Stevens, Monica
+    gutenberg_agent_id: '7122'
+    url: http://www.gutenberg.org/2009/agents/7122
+description: ''
+gutenberg_issued: '2005-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17075'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Consolation'
+title: 'Dialogue of Comfort Against Tribulation
+
+  With Modifications To Obsolete Language By Monica Stevens'
+url: http://www.gutenberg.org/ebooks/17075
